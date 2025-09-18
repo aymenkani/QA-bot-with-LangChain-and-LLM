@@ -12,6 +12,11 @@ The bot provides a simple **Gradio web interface** where users can upload a PDF,
 - 📚 Stores document chunks in a **Chroma vector database** with embeddings  
 - 🌐 Easy-to-use **Gradio interface**  
 
+
+## 🖼️ Demo Screenshot
+
+<img width="664" height="617" alt="image" src="https://github.com/user-attachments/assets/f44cb36f-2128-4f2d-9ea1-baa108160d9e" />
+
 ---
 
 ## 📦 Installation
@@ -27,8 +32,9 @@ The bot provides a simple **Gradio web interface** where users can upload a PDF,
     source .venv/bin/activate   # On Windows use: .venv\Scripts\activate
 
 
-▶️ Usage
+## ▶️ Usage
 
 Run the bot locally:
-```python
-python3 qabot.py
+  ```bash
+  python3 qabot.py
+
